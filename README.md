@@ -72,9 +72,6 @@
 | 模型 (Model) | 截止日期 (Cutoff Date) |
 |---|---|
 | grok-3-mini | 2024年12月 |
-| grok-3-mini-think-low | 2024年12月 |
-| grok-3-mini-think-high | 2024年12月 |
-| grok-3-mini-latest | 22024年12月 |
 | grok-3 | 2024年12月 |
 
 ## DeepSeek 模型 / DeepSeek Models
